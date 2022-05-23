@@ -1,4 +1,4 @@
-# CSE-331-Microprocessor-Termerature-Controlled-Fan
+# <i>CSE-331-Microprocessor-Termerature-Controlled-Fan
 CSE-331-Microprocessor-Termerature Controlled Fan using Arduino &amp; Proteus
 
 <p align="center">
@@ -22,4 +22,4 @@ cheaper than microprocessors.<br>
  # Circuit
 <p align="center">
   <img src="https://user-images.githubusercontent.com/63312173/169714388-03354e19-e4ad-4a98-83be-759cf1ad381b.png">
-</p>
+</p></i>
